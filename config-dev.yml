@@ -1,2 +1,2 @@
-config:
-  info: "master branch"
+config: 
+  info: "http://localhost:3344/master/config-dev.yml"
