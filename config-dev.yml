@@ -1,2 +1,3 @@
-config: 
-  info: "http://localhost:3344/master/config-dev.yml"
+config:
+  info: "master branch,springcloud-config/config-dev.yml version=7"
+
